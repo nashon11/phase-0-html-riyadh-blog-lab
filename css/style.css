@@ -35,7 +35,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.4em;
   margin-top: .5em;
 }
 
@@ -45,9 +45,9 @@ h3 {
   margin-top: .5em;
 }
 
-img {
-  max-width: 100%;
-  width: 100%;
+.album img {
+  max-width: 10%;
+  width: 10%;
   height: auto;
 }
 
